@@ -9,17 +9,6 @@
 - ⚡ Fun Project: [Taichi app](https://taichi-praha.glideapp.io/) made with Glide 
 
 <br />
-<br />
-<br />
-
-## Find me around the web
-
-[![Microsoft Edge Badge](https://img.shields.io/badge/-Marketa%20Stankova-orange?labelColor=ff552a?style=flat-square&logo=microsoft-edge&link=https://marketastankova.com)](https://marketastankova.com)
-
-[![Twitter Badge](https://img.shields.io/badge/-@StankovaMarketa-blue?labelColor=ff552a?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/StankovaMarketa)](https://twitter.com/StankovaMarketa)
-
-<br />
-<br />
 
 ## My Languages and Tools
 
@@ -45,5 +34,13 @@
 
 <img align="left" alt="GitHub" width="25px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<img align="left" alt="Vercel" width="25px" src="https://raw.githubusercontent.com/github/explore/3c66f1237835e0b877190fbea528d0ebece7bccf/topics/vercel/vercel.png
-">
+<br />
+<br />
+
+## Find me around the web
+
+[![Microsoft Edge Badge](https://img.shields.io/badge/-Marketa%20Stankova-orange?labelColor=ff552a?style=flat-square&logo=microsoft-edge&link=https://marketastankova.com)](https://marketastankova.com)
+[![Twitter Badge](https://img.shields.io/badge/-@StankovaMarketa-blue?labelColor=ff552a?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/StankovaMarketa)](https://twitter.com/StankovaMarketa)
+
+<br />
+<br />
