@@ -1,6 +1,6 @@
 # Hi there, I'm Marketa 👋👩‍💻
 
-<img align="right" width="250px" src="https://www.marketastankova.com/docs/img/undraw_web_development.svg">
+<img align="right" width="250px" src="./assets/undraw_web_development.svg">
 
 <br />
 
