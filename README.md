@@ -1,12 +1,12 @@
 # Hi there, I'm Marketa 👋👩‍💻
 
-<img align="right" width="250px" src="./assets/undraw_web_development.svg">
+<img align="right" width="280px" src="./assets/undraw_web_development.svg">
 
 <br />
 
 - 🌱 I’m currently learning React <img alt="React" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-- 🥅 2020-21 Goals: Transition from Pharma business into IT
-- ⚡ Fun Project: [Taichi app](https://taichi-praha.glideapp.io/) made with Glide 
+- 🥅 2020-21 Goals: Solve dilemna Pharma || IT
+- 💃🏼 Fun Project: [Taichi app](https://taichi-praha.glideapp.io/) made with Glide
 
 <br />
 
