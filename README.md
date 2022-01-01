@@ -1,42 +1,41 @@
 # Hi there, I'm Marketa 👋👩‍💻
 
-<img align="right" width="280px" src="./assets/undraw_web_development.svg">
+<div style="max-width: 375px;">
 
-<br />
+<div style="max-width: 200px; margin: 16px auto;">
 
-- 🌱 I’m learning React <img alt="React" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-- 🥅 2021 Goal: Get a job as a Frontend Developer / Software Engineer
+<img src="./assets/undraw_web_development.svg">
+
+</div>
+
+<div style="margin-bottom: 32px;">
+
+- 🌱 Keep learning and never give up!
+- 🥅 2022 Goal: Become better Full Stack Developer
 - 💃🏼 Fun Project: [Taichi app](https://taichi-praha.glideapp.io/) made with Glide
 
-<br />
+</div>
 
 ## My Languages and Tools
 
-<img align="left" alt="HTML5" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; margin-top: 16px; margin-bottom: 32px;">
 
-<img align="left" alt="CSS3" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img alt="JavaScript" width="25px" height="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-<img align="left" alt="Sass" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img alt="React" width="25px" height="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
-<img align="left" alt="JavaScript" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img alt="Next.js" width="40px" height="25px" src="./assets/nextjs.png">
 
-<img align="left" alt="React" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img alt="Gatsby" width="25px" height="25px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
 
-<img align="left" alt="Next.js" width="40px" src="./assets/nextjs.png">
+<img alt="Node.js" width="80px" height="25px" src="./assets/nodejs.png" />
 
-<img align="left" alt="Gatsby" width="25px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
+<img alt="HTML5" width="25px" height="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
-<img align="left" alt="GraphQL" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+<img alt="CSS3" width="25px" height="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-<img align="left" alt="Figma" width="25px" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png">
+<img alt="Sass" width="25px" height="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
-<br />
-<br />
+</div>
 
-## Find me around the web
-
-[![Microsoft Edge Badge](https://img.shields.io/badge/-Marketa%20Stankova-orange?labelColor=ff552a?style=flat-square&logo=microsoft-edge&link=https://marketastankova.com)](https://marketastankova.com)
-[![Twitter Badge](https://img.shields.io/badge/-@StankovaMarketa-blue?labelColor=ff552a?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/StankovaMarketa)](https://twitter.com/StankovaMarketa)
-
-<br />
-<br />
+</div>
