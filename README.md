@@ -2,17 +2,15 @@
 
 <div style="max-width: 375px;">
 
-<div style="max-width: 200px; margin: 16px auto;">
+<div>
 
-<img src="./assets/undraw_web_development.svg">
+During the last year, I fulfilled my dream 🥅 and successfully made a transition to IT. In 2022 I'd like to continue to learn to become a better Full Stack Developer 👩‍💻
 
-</div>
+<br />
 
-<div style="margin-bottom: 32px;">
+*🌱 Keep learning and never give up! 🌱*
 
-- 🌱 Keep learning and never give up!
-- 🥅 2022 Goal: Become better Full Stack Developer
-- 💃🏼 Fun Project: [Taichi app](https://taichi-praha.glideapp.io/) made with Glide
+<br />
 
 </div>
 
